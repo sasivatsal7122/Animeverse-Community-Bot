@@ -1,0 +1,4 @@
+
+1. Anime Info by Query -- DONE
+2. Anime Episodes List by Query -- DONE
+3. Anime Statistics by Query -- DONE
