@@ -1,4 +1,35 @@
 
+
+===== ANiME ===== --> ALL CHECK ✅
+
 1. Anime Info by Query -- DONE
 2. Anime Episodes List by Query -- DONE
 3. Anime Statistics by Query -- DONE
+4. Anime Recommendations by Query -- DONE
+5. Anime Top Review by Query -- DONE
+6. Anime Relations by Query -- DONE
+
+===== Top 10 ===== --> ALL CHECK ✅
+
+7. Top 10 Anime
+    -- Filter:
+        + Airing
+        + Upcoming
+        + Popularity
+    -- Categories:
+        - Tv
+        - Movie
+        - music
+
+8. Top 10 Manga
+    -- Filter:
+        + Publishing
+        + Upcoming
+        + Popularity
+    -- Categories:
+        - Manga
+        - Novel
+        - Light Novel
+    
+    
+
