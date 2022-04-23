@@ -1,9 +1,6 @@
 import requests
 import urlshortner
 
-
-
-
 def top_10():
     item_choice_ls = ['Top-10 Anime','Top-10 Manga']
     user_choice = int(input(f"1.{item_choice_ls[0]}\n2.{item_choice_ls[1]}\n\nChoose one: "))
